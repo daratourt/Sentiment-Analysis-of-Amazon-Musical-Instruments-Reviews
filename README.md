@@ -1,1 +1,1 @@
-# Developing an Advanced Recommender System Using Amazon Reviews
+# Developing a Recommender System Using Amazon Reviews
